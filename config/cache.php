@@ -55,11 +55,11 @@ return [
             'lock_path' => storage_path('framework/cache/data'),
         ],
 
-        'redis' => [
-            'driver' => 'redis',
-            'connection' => 'cache',
-            'lock_connection' => 'default',
-        ],
+        // 'redis' => [
+        //     'driver' => 'redis',
+        //     'connection' => 'cache',
+        //     'lock_connection' => 'default',
+        // ],
 
         'octane' => [
             'driver' => 'octane',
