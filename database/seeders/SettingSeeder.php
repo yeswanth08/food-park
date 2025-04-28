@@ -163,7 +163,7 @@ class SettingSeeder extends Seeder
             array(
                 "id" => 22,
                 "key" => "site_email",
-                "value" => "foodpark@gmail.com",
+                "value" => "infokushwanth@gmail.com",
                 "created_at" => "2023-09-17 11:18:32",
                 "updated_at" => "2023-09-17 11:18:32",
             ),
